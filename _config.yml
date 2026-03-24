@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            yrk's book
+longtitle:        open source software
+author:           Yeram Kim
+email:            kyr040404@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  오픈소스에 대한 내용을 담고 있습니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://kyr040404.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
